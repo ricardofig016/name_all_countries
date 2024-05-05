@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+#input {
+  margin-bottom: 10px;
+}
+
+.columns-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  width: 30%;
+}

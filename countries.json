@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Abkhazia",
+    "category": "Other Territories",
+    "formated name": "abkhazia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Abyei Area",
+    "category": "Other Territories",
+    "formated name": "abyeiarea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Adjara",
+    "category": "Other Territories",
+    "formated name": "adjara",
+    "state": "not guessed"
+  },
+  {
+    "name": "Afghanistan",
+    "category": "UN Member State",
+    "formated name": "afghanistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Aland",
+    "category": "Other Territories",
+    "formated name": "aland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Albania",
+    "category": "UN Member State",
+    "formated name": "albania",
+    "state": "not guessed"
+  },
+  {
+    "name": "Algeria",
+    "category": "UN Member State",
+    "formated name": "algeria",
+    "state": "not guessed"
+  },
+  {
+    "name": "American Samoa",
+    "category": "Other Territories",
+    "formated name": "americansamoa",
+    "state": "not guessed"
+  },
+  {
+    "name": "Andorra",
+    "category": "UN Member State",
+    "formated name": "andorra",
+    "state": "not guessed"
+  },
+  {
+    "name": "Angola",
+    "category": "UN Member State",
+    "formated name": "angola",
+    "state": "not guessed"
+  },
+  {
+    "name": "Anguilla",
+    "category": "Other Territories",
+    "formated name": "anguilla",
+    "state": "not guessed"
+  },
+  {
+    "name": "Antarctica",
+    "category": "Other Territories",
+    "formated name": "antarctica",
+    "state": "not guessed"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "category": "UN Member State",
+    "formated name": "antiguaandbarbuda",
+    "state": "not guessed"
+  },
+  {
+    "name": "Aosta Valley",
+    "category": "Other Territories",
+    "formated name": "aostavalley",
+    "state": "not guessed"
+  },
+  {
+    "name": "Argentina",
+    "category": "UN Member State",
+    "formated name": "argentina",
+    "state": "not guessed"
+  },
+  {
+    "name": "Armenia",
+    "category": "UN Member State",
+    "formated name": "armenia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Artsakh",
+    "category": "Other Territories",
+    "formated name": "artsakh",
+    "state": "not guessed"
+  },
+  {
+    "name": "Aruba",
+    "category": "Other Territories",
+    "formated name": "aruba",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ascension",
+    "category": "Other Territories",
+    "formated name": "ascension",
+    "state": "not guessed"
+  },
+  {
+    "name": "Australia",
+    "category": "UN Member State",
+    "formated name": "australia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Austria",
+    "category": "UN Member State",
+    "formated name": "austria",
+    "state": "not guessed"
+  },
+  {
+    "name": "Azad Kashmir",
+    "category": "Other Territories",
+    "formated name": "azadkashmir",
+    "state": "not guessed"
+  },
+  {
+    "name": "Azerbaijan",
+    "category": "UN Member State",
+    "formated name": "azerbaijan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Azores",
+    "category": "Other Territories",
+    "formated name": "azores",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bahamas",
+    "category": "UN Member State",
+    "formated name": "bahamas",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bahrain",
+    "category": "UN Member State",
+    "formated name": "bahrain",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bangladesh",
+    "category": "UN Member State",
+    "formated name": "bangladesh",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bangsamoro",
+    "category": "Other Territories",
+    "formated name": "bangsamoro",
+    "state": "not guessed"
+  },
+  {
+    "name": "Barbados",
+    "category": "UN Member State",
+    "formated name": "barbados",
+    "state": "not guessed"
+  },
+  {
+    "name": "Barbuda",
+    "category": "Other Territories",
+    "formated name": "barbuda",
+    "state": "not guessed"
+  },
+  {
+    "name": "Belarus",
+    "category": "UN Member State",
+    "formated name": "belarus",
+    "state": "not guessed"
+  },
+  {
+    "name": "Belgium",
+    "category": "UN Member State",
+    "formated name": "belgium",
+    "state": "not guessed"
+  },
+  {
+    "name": "Belize",
+    "category": "UN Member State",
+    "formated name": "belize",
+    "state": "not guessed"
+  },
+  {
+    "name": "Benin",
+    "category": "UN Member State",
+    "formated name": "benin",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bermuda",
+    "category": "Other Territories",
+    "formated name": "bermuda",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bhutan",
+    "category": "UN Member State",
+    "formated name": "bhutan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bolivia",
+    "category": "UN Member State",
+    "formated name": "bolivia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bonaire",
+    "category": "Other Territories",
+    "formated name": "bonaire",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "category": "UN Member State",
+    "formated name": "bosniaandherzegovina",
+    "state": "not guessed"
+  },
+  {
+    "name": "Botswana",
+    "category": "UN Member State",
+    "formated name": "botswana",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bougainville",
+    "category": "Other Territories",
+    "formated name": "bougainville",
+    "state": "not guessed"
+  },
+  {
+    "name": "Brazil",
+    "category": "UN Member State",
+    "formated name": "brazil",
+    "state": "not guessed"
+  },
+  {
+    "name": "British Antarctic Territory",
+    "category": "Other Territories",
+    "formated name": "britishantarcticterritory",
+    "state": "not guessed"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "category": "Other Territories",
+    "formated name": "britishindianoceanterritory",
+    "state": "not guessed"
+  },
+  {
+    "name": "British Virgin Islands",
+    "category": "Other Territories",
+    "formated name": "britishvirginislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Brunei",
+    "category": "UN Member State",
+    "formated name": "brunei",
+    "state": "not guessed"
+  },
+  {
+    "name": "Bulgaria",
+    "category": "UN Member State",
+    "formated name": "bulgaria",
+    "state": "not guessed"
+  },
+  {
+    "name": "Burkina Faso",
+    "category": "UN Member State",
+    "formated name": "burkinafaso",
+    "state": "not guessed"
+  },
+  {
+    "name": "Burundi",
+    "category": "UN Member State",
+    "formated name": "burundi",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cambodia",
+    "category": "UN Member State",
+    "formated name": "cambodia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cameroon",
+    "category": "UN Member State",
+    "formated name": "cameroon",
+    "state": "not guessed"
+  },
+  {
+    "name": "Canada",
+    "category": "UN Member State",
+    "formated name": "canada",
+    "state": "not guessed"
+  },
+  {
+    "name": "Canary Islands",
+    "category": "Other Territories",
+    "formated name": "canaryislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cape Verde",
+    "category": "UN Member State",
+    "formated name": "capeverde",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cayman Islands",
+    "category": "Other Territories",
+    "formated name": "caymanislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Central African Republic",
+    "category": "UN Member State",
+    "formated name": "centralafricanrepublic",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ceuta",
+    "category": "Other Territories",
+    "formated name": "ceuta",
+    "state": "not guessed"
+  },
+  {
+    "name": "Chad",
+    "category": "UN Member State",
+    "formated name": "chad",
+    "state": "not guessed"
+  },
+  {
+    "name": "Chile",
+    "category": "UN Member State",
+    "formated name": "chile",
+    "state": "not guessed"
+  },
+  {
+    "name": "China",
+    "category": "UN Member State",
+    "formated name": "china",
+    "state": "not guessed"
+  },
+  {
+    "name": "Christmas Island",
+    "category": "Other Territories",
+    "formated name": "christmasisland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cocos Islands",
+    "category": "Other Territories",
+    "formated name": "cocosislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Colombia",
+    "category": "UN Member State",
+    "formated name": "colombia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Comoros",
+    "category": "UN Member State",
+    "formated name": "comoros",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cook Islands",
+    "category": "Other Territories",
+    "formated name": "cookislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Costa Rica",
+    "category": "UN Member State",
+    "formated name": "costarica",
+    "state": "not guessed"
+  },
+  {
+    "name": "Crimea",
+    "category": "Other Territories",
+    "formated name": "crimea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Croatia",
+    "category": "UN Member State",
+    "formated name": "croatia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cuba",
+    "category": "UN Member State",
+    "formated name": "cuba",
+    "state": "not guessed"
+  },
+  {
+    "name": "Curacao",
+    "category": "Other Territories",
+    "formated name": "curacao",
+    "state": "not guessed"
+  },
+  {
+    "name": "Cyprus",
+    "category": "UN Member State",
+    "formated name": "cyprus",
+    "state": "not guessed"
+  },
+  {
+    "name": "Czech Republic",
+    "category": "UN Member State",
+    "formated name": "czechrepublic",
+    "state": "not guessed"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "category": "UN Member State",
+    "formated name": "democraticrepublicofthecongo",
+    "state": "not guessed"
+  },
+  {
+    "name": "Denmark",
+    "category": "UN Member State",
+    "formated name": "denmark",
+    "state": "not guessed"
+  },
+  {
+    "name": "Djibouti",
+    "category": "UN Member State",
+    "formated name": "djibouti",
+    "state": "not guessed"
+  },
+  {
+    "name": "Dominica",
+    "category": "UN Member State",
+    "formated name": "dominica",
+    "state": "not guessed"
+  },
+  {
+    "name": "Dominican Republic",
+    "category": "UN Member State",
+    "formated name": "dominicanrepublic",
+    "state": "not guessed"
+  },
+  {
+    "name": "East Timor",
+    "category": "UN Member State",
+    "formated name": "easttimor",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ecuador",
+    "category": "UN Member State",
+    "formated name": "ecuador",
+    "state": "not guessed"
+  },
+  {
+    "name": "Egypt",
+    "category": "UN Member State",
+    "formated name": "egypt",
+    "state": "not guessed"
+  },
+  {
+    "name": "El Salvador",
+    "category": "UN Member State",
+    "formated name": "elsalvador",
+    "state": "not guessed"
+  },
+  {
+    "name": "England",
+    "category": "Other Territories",
+    "formated name": "england",
+    "state": "not guessed"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "category": "UN Member State",
+    "formated name": "equatorialguinea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Eritrea",
+    "category": "UN Member State",
+    "formated name": "eritrea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Estonia",
+    "category": "UN Member State",
+    "formated name": "estonia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Eswatini",
+    "category": "UN Member State",
+    "formated name": "eswatini",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ethiopia",
+    "category": "UN Member State",
+    "formated name": "ethiopia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Falklands",
+    "category": "Other Territories",
+    "formated name": "falklands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Faroe Islands",
+    "category": "Other Territories",
+    "formated name": "faroeislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Fiji",
+    "category": "UN Member State",
+    "formated name": "fiji",
+    "state": "not guessed"
+  },
+  {
+    "name": "Finland",
+    "category": "UN Member State",
+    "formated name": "finland",
+    "state": "not guessed"
+  },
+  {
+    "name": "France",
+    "category": "UN Member State",
+    "formated name": "france",
+    "state": "not guessed"
+  },
+  {
+    "name": "French Guiana",
+    "category": "Other Territories",
+    "formated name": "frenchguiana",
+    "state": "not guessed"
+  },
+  {
+    "name": "French Polynesia",
+    "category": "Other Territories",
+    "formated name": "frenchpolynesia",
+    "state": "not guessed"
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "category": "Other Territories",
+    "formated name": "frenchsouthernandantarcticlands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "category": "Other Territories",
+    "formated name": "friuliveneziagiulia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gabon",
+    "category": "UN Member State",
+    "formated name": "gabon",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gagauzia",
+    "category": "Other Territories",
+    "formated name": "gagauzia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Galmudug",
+    "category": "Other Territories",
+    "formated name": "galmudug",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gambia",
+    "category": "UN Member State",
+    "formated name": "gambia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Georgia",
+    "category": "UN Member State",
+    "formated name": "georgia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Germany",
+    "category": "UN Member State",
+    "formated name": "germany",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ghana",
+    "category": "UN Member State",
+    "formated name": "ghana",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gibraltar",
+    "category": "Other Territories",
+    "formated name": "gibraltar",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gilgit-Baltistan",
+    "category": "Other Territories",
+    "formated name": "gilgitbaltistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Gorno-Badakhshan",
+    "category": "Other Territories",
+    "formated name": "gornobadakhshan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Greece",
+    "category": "UN Member State",
+    "formated name": "greece",
+    "state": "not guessed"
+  },
+  {
+    "name": "Greenland",
+    "category": "Other Territories",
+    "formated name": "greenland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Grenada",
+    "category": "UN Member State",
+    "formated name": "grenada",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guadeloupe",
+    "category": "Other Territories",
+    "formated name": "guadeloupe",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guam",
+    "category": "Other Territories",
+    "formated name": "guam",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guatemala",
+    "category": "UN Member State",
+    "formated name": "guatemala",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guernsey",
+    "category": "Other Territories",
+    "formated name": "guernsey",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guinea",
+    "category": "UN Member State",
+    "formated name": "guinea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "category": "UN Member State",
+    "formated name": "guineabissau",
+    "state": "not guessed"
+  },
+  {
+    "name": "Guyana",
+    "category": "UN Member State",
+    "formated name": "guyana",
+    "state": "not guessed"
+  },
+  {
+    "name": "Haiti",
+    "category": "UN Member State",
+    "formated name": "haiti",
+    "state": "not guessed"
+  },
+  {
+    "name": "Honduras",
+    "category": "UN Member State",
+    "formated name": "honduras",
+    "state": "not guessed"
+  },
+  {
+    "name": "Hong Kong",
+    "category": "Other Territories",
+    "formated name": "hongkong",
+    "state": "not guessed"
+  },
+  {
+    "name": "Hungary",
+    "category": "UN Member State",
+    "formated name": "hungary",
+    "state": "not guessed"
+  },
+  {
+    "name": "Iceland",
+    "category": "UN Member State",
+    "formated name": "iceland",
+    "state": "not guessed"
+  },
+  {
+    "name": "India",
+    "category": "UN Member State",
+    "formated name": "india",
+    "state": "not guessed"
+  },
+  {
+    "name": "Indonesia",
+    "category": "UN Member State",
+    "formated name": "indonesia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Iran",
+    "category": "UN Member State",
+    "formated name": "iran",
+    "state": "not guessed"
+  },
+  {
+    "name": "Iraq",
+    "category": "UN Member State",
+    "formated name": "iraq",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ireland",
+    "category": "UN Member State",
+    "formated name": "ireland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Isle of Man",
+    "category": "Other Territories",
+    "formated name": "isleofman",
+    "state": "not guessed"
+  },
+  {
+    "name": "Israel",
+    "category": "UN Member State",
+    "formated name": "israel",
+    "state": "not guessed"
+  },
+  {
+    "name": "Italy",
+    "category": "UN Member State",
+    "formated name": "italy",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ivory Coast",
+    "category": "UN Member State",
+    "formated name": "ivorycoast",
+    "state": "not guessed"
+  },
+  {
+    "name": "Jamaica",
+    "category": "UN Member State",
+    "formated name": "jamaica",
+    "state": "not guessed"
+  },
+  {
+    "name": "Japan",
+    "category": "UN Member State",
+    "formated name": "japan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Jersey",
+    "category": "Other Territories",
+    "formated name": "jersey",
+    "state": "not guessed"
+  },
+  {
+    "name": "Johnston Atoll",
+    "category": "Other Territories",
+    "formated name": "johnstonatoll",
+    "state": "not guessed"
+  },
+  {
+    "name": "Jordan",
+    "category": "UN Member State",
+    "formated name": "jordan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Karakalpakstan",
+    "category": "Other Territories",
+    "formated name": "karakalpakstan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kazakhstan",
+    "category": "UN Member State",
+    "formated name": "kazakhstan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kenya",
+    "category": "UN Member State",
+    "formated name": "kenya",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kiribati",
+    "category": "UN Member State",
+    "formated name": "kiribati",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kosovo",
+    "category": "Other Territories",
+    "formated name": "kosovo",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kurdistan Region",
+    "category": "Other Territories",
+    "formated name": "kurdistanregion",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kuwait",
+    "category": "UN Member State",
+    "formated name": "kuwait",
+    "state": "not guessed"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "category": "UN Member State",
+    "formated name": "kyrgyzstan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Laos",
+    "category": "UN Member State",
+    "formated name": "laos",
+    "state": "not guessed"
+  },
+  {
+    "name": "Latvia",
+    "category": "UN Member State",
+    "formated name": "latvia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Lebanon",
+    "category": "UN Member State",
+    "formated name": "lebanon",
+    "state": "not guessed"
+  },
+  {
+    "name": "Lesotho",
+    "category": "UN Member State",
+    "formated name": "lesotho",
+    "state": "not guessed"
+  },
+  {
+    "name": "Liberia",
+    "category": "UN Member State",
+    "formated name": "liberia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Libya",
+    "category": "UN Member State",
+    "formated name": "libya",
+    "state": "not guessed"
+  },
+  {
+    "name": "Liechtenstein",
+    "category": "UN Member State",
+    "formated name": "liechtenstein",
+    "state": "not guessed"
+  },
+  {
+    "name": "Lithuania",
+    "category": "UN Member State",
+    "formated name": "lithuania",
+    "state": "not guessed"
+  },
+  {
+    "name": "Luxembourg",
+    "category": "UN Member State",
+    "formated name": "luxembourg",
+    "state": "not guessed"
+  },
+  {
+    "name": "Macau",
+    "category": "Other Territories",
+    "formated name": "macau",
+    "state": "not guessed"
+  },
+  {
+    "name": "Madeira",
+    "category": "Other Territories",
+    "formated name": "madeira",
+    "state": "not guessed"
+  },
+  {
+    "name": "Madagascar",
+    "category": "UN Member State",
+    "formated name": "madagascar",
+    "state": "not guessed"
+  },
+  {
+    "name": "Malawi",
+    "category": "UN Member State",
+    "formated name": "malawi",
+    "state": "not guessed"
+  },
+  {
+    "name": "Malaysia",
+    "category": "UN Member State",
+    "formated name": "malaysia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Maldives",
+    "category": "UN Member State",
+    "formated name": "maldives",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mali",
+    "category": "UN Member State",
+    "formated name": "mali",
+    "state": "not guessed"
+  },
+  {
+    "name": "Malta",
+    "category": "UN Member State",
+    "formated name": "malta",
+    "state": "not guessed"
+  },
+  {
+    "name": "Marshall Islands",
+    "category": "UN Member State",
+    "formated name": "marshallislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Martinique",
+    "category": "Other Territories",
+    "formated name": "martinique",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mauritania",
+    "category": "UN Member State",
+    "formated name": "mauritania",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mauritius",
+    "category": "UN Member State",
+    "formated name": "mauritius",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mayotte",
+    "category": "Other Territories",
+    "formated name": "mayotte",
+    "state": "not guessed"
+  },
+  {
+    "name": "Melilla",
+    "category": "Other Territories",
+    "formated name": "melilla",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mexico",
+    "category": "UN Member State",
+    "formated name": "mexico",
+    "state": "not guessed"
+  },
+  {
+    "name": "Midway Atoll",
+    "category": "Other Territories",
+    "formated name": "midwayatoll",
+    "state": "not guessed"
+  },
+  {
+    "name": "Micronesia",
+    "category": "UN Member State",
+    "formated name": "micronesia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Moldova",
+    "category": "UN Member State",
+    "formated name": "moldova",
+    "state": "not guessed"
+  },
+  {
+    "name": "Monaco",
+    "category": "UN Member State",
+    "formated name": "monaco",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mongolia",
+    "category": "UN Member State",
+    "formated name": "mongolia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Montenegro",
+    "category": "UN Member State",
+    "formated name": "montenegro",
+    "state": "not guessed"
+  },
+  {
+    "name": "Montserrat",
+    "category": "Other Territories",
+    "formated name": "montserrat",
+    "state": "not guessed"
+  },
+  {
+    "name": "Morocco",
+    "category": "UN Member State",
+    "formated name": "morocco",
+    "state": "not guessed"
+  },
+  {
+    "name": "Mozambique",
+    "category": "UN Member State",
+    "formated name": "mozambique",
+    "state": "not guessed"
+  },
+  {
+    "name": "Myanmar",
+    "category": "UN Member State",
+    "formated name": "myanmar",
+    "state": "not guessed"
+  },
+  {
+    "name": "Namibia",
+    "category": "UN Member State",
+    "formated name": "namibia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Nauru",
+    "category": "UN Member State",
+    "formated name": "nauru",
+    "state": "not guessed"
+  },
+  {
+    "name": "Navassa Island",
+    "category": "Other Territories",
+    "formated name": "navassaisland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Nepal",
+    "category": "UN Member State",
+    "formated name": "nepal",
+    "state": "not guessed"
+  },
+  {
+    "name": "Netherlands",
+    "category": "UN Member State",
+    "formated name": "netherlands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Nevis",
+    "category": "Other Territories",
+    "formated name": "nevis",
+    "state": "not guessed"
+  },
+  {
+    "name": "New Caledonia",
+    "category": "Other Territories",
+    "formated name": "newcaledonia",
+    "state": "not guessed"
+  },
+  {
+    "name": "New Zealand",
+    "category": "UN Member State",
+    "formated name": "newzealand",
+    "state": "not guessed"
+  },
+  {
+    "name": "Nicaragua",
+    "category": "UN Member State",
+    "formated name": "nicaragua",
+    "state": "not guessed"
+  },
+  {
+    "name": "Niger",
+    "category": "UN Member State",
+    "formated name": "niger",
+    "state": "not guessed"
+  },
+  {
+    "name": "Nigeria",
+    "category": "UN Member State",
+    "formated name": "nigeria",
+    "state": "not guessed"
+  },
+  {
+    "name": "Niue",
+    "category": "Other Territories",
+    "formated name": "niue",
+    "state": "not guessed"
+  },
+  {
+    "name": "Norfolk Island",
+    "category": "Other Territories",
+    "formated name": "norfolkisland",
+    "state": "not guessed"
+  },
+  {
+    "name": "North Caribbean Coast Autonomous Region",
+    "category": "Other Territories",
+    "formated name": "northcaribbeancoastautonomousregion",
+    "state": "not guessed"
+  },
+  {
+    "name": "North Korea",
+    "category": "UN Member State",
+    "formated name": "northkorea",
+    "state": "not guessed"
+  },
+  {
+    "name": "North Macedonia",
+    "category": "UN Member State",
+    "formated name": "northmacedonia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Northern Cyprus",
+    "category": "Other Territories",
+    "formated name": "northerncyprus",
+    "state": "not guessed"
+  },
+  {
+    "name": "Northern Ireland",
+    "category": "Other Territories",
+    "formated name": "northernireland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "category": "Other Territories",
+    "formated name": "northernmarianaislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Norway",
+    "category": "UN Member State",
+    "formated name": "norway",
+    "state": "not guessed"
+  },
+  {
+    "name": "Oman",
+    "category": "UN Member State",
+    "formated name": "oman",
+    "state": "not guessed"
+  },
+  {
+    "name": "Pakistan",
+    "category": "UN Member State",
+    "formated name": "pakistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Palau",
+    "category": "UN Member State",
+    "formated name": "palau",
+    "state": "not guessed"
+  },
+  {
+    "name": "Palestine",
+    "category": "UN Member State",
+    "formated name": "palestine",
+    "state": "not guessed"
+  },
+  {
+    "name": "Palmyra Atoll",
+    "category": "Other Territories",
+    "formated name": "palmyraatoll",
+    "state": "not guessed"
+  },
+  {
+    "name": "Panama",
+    "category": "UN Member State",
+    "formated name": "panama",
+    "state": "not guessed"
+  },
+  {
+    "name": "Papua New Guinea",
+    "category": "UN Member State",
+    "formated name": "papuanewguinea",
+    "state": "not guessed"
+  },
+  {
+    "name": "Paraguay",
+    "category": "UN Member State",
+    "formated name": "paraguay",
+    "state": "not guessed"
+  },
+  {
+    "name": "Peru",
+    "category": "UN Member State",
+    "formated name": "peru",
+    "state": "not guessed"
+  },
+  {
+    "name": "Philippines",
+    "category": "UN Member State",
+    "formated name": "philippines",
+    "state": "not guessed"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "category": "Other Territories",
+    "formated name": "pitcairnislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Poland",
+    "category": "UN Member State",
+    "formated name": "poland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Portugal",
+    "category": "UN Member State",
+    "formated name": "portugal",
+    "state": "not guessed"
+  },
+  {
+    "name": "Principe",
+    "category": "Other Territories",
+    "formated name": "principe",
+    "state": "not guessed"
+  },
+  {
+    "name": "Puerto Rico",
+    "category": "Other Territories",
+    "formated name": "puertorico",
+    "state": "not guessed"
+  },
+  {
+    "name": "Puntland",
+    "category": "Other Territories",
+    "formated name": "puntland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Qatar",
+    "category": "UN Member State",
+    "formated name": "qatar",
+    "state": "not guessed"
+  },
+  {
+    "name": "Rebel Zapatista Autonomous Municipalities",
+    "category": "Other Territories",
+    "formated name": "rebelzapatistaautonomousmunicipalities",
+    "state": "not guessed"
+  },
+  {
+    "name": "Republic of the Congo",
+    "category": "UN Member State",
+    "formated name": "republicofthecongo",
+    "state": "not guessed"
+  },
+  {
+    "name": "Reunion",
+    "category": "Other Territories",
+    "formated name": "reunion",
+    "state": "not guessed"
+  },
+  {
+    "name": "Rodrigues",
+    "category": "Other Territories",
+    "formated name": "rodrigues",
+    "state": "not guessed"
+  },
+  {
+    "name": "Rojava",
+    "category": "Other Territories",
+    "formated name": "rojava",
+    "state": "not guessed"
+  },
+  {
+    "name": "Romania",
+    "category": "UN Member State",
+    "formated name": "romania",
+    "state": "not guessed"
+  },
+  {
+    "name": "Russia",
+    "category": "UN Member State",
+    "formated name": "russia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Rwanda",
+    "category": "UN Member State",
+    "formated name": "rwanda",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saba",
+    "category": "Other Territories",
+    "formated name": "saba",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sahrawi Arab Democratic Rebublic",
+    "category": "Other Territories",
+    "formated name": "sahrawiarabdemocraticrebublic",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "category": "Other Territories",
+    "formated name": "saintbarthelemy",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Helena",
+    "category": "Other Territories",
+    "formated name": "sainthelena",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "category": "UN Member State",
+    "formated name": "saintkittsandnevis",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Lucia",
+    "category": "UN Member State",
+    "formated name": "saintlucia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Martin",
+    "category": "Other Territories",
+    "formated name": "saintmartin",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "category": "Other Territories",
+    "formated name": "saintpierreandmiquelon",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "category": "UN Member State",
+    "formated name": "saintvincentandthegrenadines",
+    "state": "not guessed"
+  },
+  {
+    "name": "Samoa",
+    "category": "UN Member State",
+    "formated name": "samoa",
+    "state": "not guessed"
+  },
+  {
+    "name": "San Marino",
+    "category": "UN Member State",
+    "formated name": "sanmarino",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "category": "UN Member State",
+    "formated name": "saotomeandprincipe",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sardinia",
+    "category": "Other Territories",
+    "formated name": "sardinia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Saudi Arabia",
+    "category": "UN Member State",
+    "formated name": "saudiarabia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Scotland",
+    "category": "Other Territories",
+    "formated name": "scotland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Senegal",
+    "category": "UN Member State",
+    "formated name": "senegal",
+    "state": "not guessed"
+  },
+  {
+    "name": "Serbia",
+    "category": "UN Member State",
+    "formated name": "serbia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Seychelles",
+    "category": "UN Member State",
+    "formated name": "seychelles",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sicily",
+    "category": "Other Territories",
+    "formated name": "sicily",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sierra Leone",
+    "category": "UN Member State",
+    "formated name": "sierraleone",
+    "state": "not guessed"
+  },
+  {
+    "name": "Singapore",
+    "category": "UN Member State",
+    "formated name": "singapore",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sint Eustatius",
+    "category": "Other Territories",
+    "formated name": "sinteustatius",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sint Maarten",
+    "category": "Other Territories",
+    "formated name": "sintmaarten",
+    "state": "not guessed"
+  },
+  {
+    "name": "Slovakia",
+    "category": "UN Member State",
+    "formated name": "slovakia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Slovenia",
+    "category": "UN Member State",
+    "formated name": "slovenia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Solomon Islands",
+    "category": "UN Member State",
+    "formated name": "solomonislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Somalia",
+    "category": "UN Member State",
+    "formated name": "somalia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Somaliland",
+    "category": "Other Territories",
+    "formated name": "somaliland",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Africa",
+    "category": "UN Member State",
+    "formated name": "southafrica",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Caribbean Coast Autonomous Region",
+    "category": "Other Territories",
+    "formated name": "southcaribbeancoastautonomousregion",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "category": "Other Territories",
+    "formated name": "southgeorgiaandthesouthsandwichislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Korea",
+    "category": "UN Member State",
+    "formated name": "southkorea",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Ossetia",
+    "category": "Other Territories",
+    "formated name": "southossetia",
+    "state": "not guessed"
+  },
+  {
+    "name": "South Sudan",
+    "category": "UN Member State",
+    "formated name": "southsudan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Spain",
+    "category": "UN Member State",
+    "formated name": "spain",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sri Lanka",
+    "category": "UN Member State",
+    "formated name": "srilanka",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sudan",
+    "category": "UN Member State",
+    "formated name": "sudan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Suriname",
+    "category": "UN Member State",
+    "formated name": "suriname",
+    "state": "not guessed"
+  },
+  {
+    "name": "Sweden",
+    "category": "UN Member State",
+    "formated name": "sweden",
+    "state": "not guessed"
+  },
+  {
+    "name": "Switzerland",
+    "category": "UN Member State",
+    "formated name": "switzerland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Syria",
+    "category": "UN Member State",
+    "formated name": "syria",
+    "state": "not guessed"
+  },
+  {
+    "name": "Taiwan",
+    "category": "Other Territories",
+    "formated name": "taiwan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tajikistan",
+    "category": "UN Member State",
+    "formated name": "tajikistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tanzania",
+    "category": "UN Member State",
+    "formated name": "tanzania",
+    "state": "not guessed"
+  },
+  {
+    "name": "Thailand",
+    "category": "UN Member State",
+    "formated name": "thailand",
+    "state": "not guessed"
+  },
+  {
+    "name": "Togo",
+    "category": "UN Member State",
+    "formated name": "togo",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tokelau",
+    "category": "Other Territories",
+    "formated name": "tokelau",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tonga",
+    "category": "UN Member State",
+    "formated name": "tonga",
+    "state": "not guessed"
+  },
+  {
+    "name": "Transnistria",
+    "category": "Other Territories",
+    "formated name": "transnistria",
+    "state": "not guessed"
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "category": "Other Territories",
+    "formated name": "trentinoaltoadige",
+    "state": "not guessed"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "category": "UN Member State",
+    "formated name": "trinidadandtobago",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tristan da Cunha",
+    "category": "Other Territories",
+    "formated name": "tristandacunha",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tunisia",
+    "category": "UN Member State",
+    "formated name": "tunisia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Turkey",
+    "category": "UN Member State",
+    "formated name": "turkey",
+    "state": "not guessed"
+  },
+  {
+    "name": "Turkmenistan",
+    "category": "UN Member State",
+    "formated name": "turkmenistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "category": "Other Territories",
+    "formated name": "turksandcaicosislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Tuvalu",
+    "category": "UN Member State",
+    "formated name": "tuvalu",
+    "state": "not guessed"
+  },
+  {
+    "name": "Uganda",
+    "category": "UN Member State",
+    "formated name": "uganda",
+    "state": "not guessed"
+  },
+  {
+    "name": "Ukraine",
+    "category": "UN Member State",
+    "formated name": "ukraine",
+    "state": "not guessed"
+  },
+  {
+    "name": "United Arab Emirates",
+    "category": "UN Member State",
+    "formated name": "unitedarabemirates",
+    "state": "not guessed"
+  },
+  {
+    "name": "United Kingdom",
+    "category": "UN Member State",
+    "formated name": "unitedkingdom",
+    "state": "not guessed"
+  },
+  {
+    "name": "United States",
+    "category": "UN Member State",
+    "formated name": "unitedstates",
+    "state": "not guessed"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "category": "Other Territories",
+    "formated name": "unitedstatesvirginislands",
+    "state": "not guessed"
+  },
+  {
+    "name": "Uruguay",
+    "category": "UN Member State",
+    "formated name": "uruguay",
+    "state": "not guessed"
+  },
+  {
+    "name": "Uzbekistan",
+    "category": "UN Member State",
+    "formated name": "uzbekistan",
+    "state": "not guessed"
+  },
+  {
+    "name": "Vanuatu",
+    "category": "UN Member State",
+    "formated name": "vanuatu",
+    "state": "not guessed"
+  },
+  {
+    "name": "Vatican City",
+    "category": "UN Member State",
+    "formated name": "vaticancity",
+    "state": "not guessed"
+  },
+  {
+    "name": "Venezuela",
+    "category": "UN Member State",
+    "formated name": "venezuela",
+    "state": "not guessed"
+  },
+  {
+    "name": "Vietnam",
+    "category": "UN Member State",
+    "formated name": "vietnam",
+    "state": "not guessed"
+  },
+  {
+    "name": "Vojvodina",
+    "category": "Other Territories",
+    "formated name": "vojvodina",
+    "state": "not guessed"
+  },
+  {
+    "name": "Wa State",
+    "category": "Other Territories",
+    "formated name": "wastate",
+    "state": "not guessed"
+  },
+  {
+    "name": "Wake Island",
+    "category": "Other Territories",
+    "formated name": "wakeisland",
+    "state": "not guessed"
+  },
+  {
+    "name": "Wales",
+    "category": "Other Territories",
+    "formated name": "wales",
+    "state": "not guessed"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "category": "Other Territories",
+    "formated name": "wallisandfutuna",
+    "state": "not guessed"
+  },
+  {
+    "name": "Yemen",
+    "category": "UN Member State",
+    "formated name": "yemen",
+    "state": "not guessed"
+  },
+  {
+    "name": "Zambia",
+    "category": "UN Member State",
+    "formated name": "zambia",
+    "state": "not guessed"
+  },
+  {
+    "name": "Zanzibar",
+    "category": "Other Territories",
+    "formated name": "zanzibar",
+    "state": "not guessed"
+  },
+  {
+    "name": "Zimbabwe",
+    "category": "UN Member State",
+    "formated name": "zimbabwe",
+    "state": "not guessed"
+  }
+]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Name all Countries</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <input id="input" type="text" placeholder="Guess the countries..." />
+      <div class="columns-container">
+        {% for i in range(col_amount) %}
+        <div class="column">
+          {% for country in country_names[i * col_size: (i + 1) * col_size] %}
+          <p class="country-p">{{ country }}</p>
+          {% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>
